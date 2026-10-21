@@ -1,0 +1,6 @@
+{
+  "name": "ZapPulse - Painel de Controle de Prospecção WhatsApp",
+  "description": "Painel profissional para gestão de chips/instâncias, esteira de warming, campanhas com spintax, monitoramento de saúde antiban e inbox de respostas de leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
